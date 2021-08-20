@@ -9,4 +9,4 @@ Pull the <2Gb image with QEMU and RISC-V GNU toolchain binaries
 docker pull emanaev/riscv-toolchain
 ```
 
-Now you can build and run your code, see example.
+Now you can build and run your code, see example project [test-freestanding](https://github.com/emanaev/riscv-toolchain/tree/main/test-freestanding).
